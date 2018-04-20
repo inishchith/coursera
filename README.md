@@ -1,2 +1,6 @@
-# coursera-machine-learning
-This project contains my code ( in both Octave and Python : TBA ) for the programming exercises in the Stanford University Machine Learning class on Coursera
+# coursera
+
+> This repository contains my submissions to programming assignments of various courses on coursera .
+
+- [x] [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
