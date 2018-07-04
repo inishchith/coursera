@@ -6,7 +6,7 @@
 -  [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 	- [x] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 	- [x] [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)
-	- [] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+	- [x] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 	- [] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 	- [] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 	
